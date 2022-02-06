@@ -1,4 +1,4 @@
-##  👋 Olá! Eu sou Stephanie Camanho
+## ✌🏻 Olá! Eu sou Stephanie Camanho
 
   - 💻 Hoje trabalho com: front-end
   
