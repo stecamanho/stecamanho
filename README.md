@@ -1,6 +1,7 @@
-## ✌🏻 Olá! Eu sou Stephanie Camanho
+## ✌🏻 Oii, Eu sou Stephanie Camanho
 
-  - 💻 Hoje trabalho com: front-end
+ - 📚 Cursando ADS
+ - 🖤 Apaixonada por front-end
   
   
 <div  align = "centro">
