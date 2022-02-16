@@ -1,4 +1,4 @@
-## ✌🏻 Oii, Eu sou Stephanie Camanho
+## ✌🏻 Oii,  eu sou Stephanie Camanho
 
  - 📚 Cursando ADS
  - 🖤 Apaixonada por front-end
